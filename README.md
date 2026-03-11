@@ -19,7 +19,6 @@ Semua file kode sumber Java (`.java`) berada di dalam folder:
 #### 📄 Daftar File di `/src`:
 - **`TV.java`**
 - **`TestTV.java`**
-- **`Main.java`**
 
 ### 🛠️ Teknologi & Tools
 - **Bahasa Pemrograman:** Java
